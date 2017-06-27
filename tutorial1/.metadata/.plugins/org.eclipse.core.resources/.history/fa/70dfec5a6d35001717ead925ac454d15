@@ -1,0 +1,21 @@
+package com.boot.service;
+
+import org.springframework.stereotype.Service;
+
+@Service("userNotificationSerivce")
+public class NotificationService {
+	
+	public void send(){
+		
+	}
+
+	public void sendSync(){
+		
+	}
+
+	@Override
+	public String toString() {
+		return "NotificationService []";
+	}
+	
+}

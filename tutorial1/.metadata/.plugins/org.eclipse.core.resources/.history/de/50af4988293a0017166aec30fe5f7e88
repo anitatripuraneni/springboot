@@ -1,0 +1,19 @@
+pageController.message = Hello from application.properties
+my.number=${random.int}
+my.bignumber=${random.long}
+my.number.less.than.ten=${random.int(10)}
+my.nymber.in.range=${randow.int(1024,65536)}
+app.name=my application name
+app.desc=${app.name} is a Spring application
+
+
+myconfig.appname=my application name 
+myconfig.app-desc=${myconfig.app-name} is a Spring application
+myconfig.first-name=Anita
+myconfig.last-name=Tripuraneni
+myconfig.email=abc.xyz@abc.com
+
+
+spring.profiles.active=Production
+
+server.port=9081

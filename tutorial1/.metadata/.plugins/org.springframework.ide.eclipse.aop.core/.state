@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringBootRest"/>
+<aop-project name="demo"/>
+<aop-project name="SpringBootApp"/>
+<aop-project name="SpringBootDAO"/>
+<aop-project name="SpringBootSecurity"/>
+<aop-project name="SpringBootMVC"/>
+</aop-reference-model>
